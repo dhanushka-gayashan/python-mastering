@@ -1,0 +1,2 @@
+> Download the setup file 
+    - Checked "Add Python 3.x to PATH" checkbox 
